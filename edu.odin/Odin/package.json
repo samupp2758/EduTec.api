@@ -1,0 +1,20 @@
+{
+  "name": "com.duckbox.edutec.odin",
+  "version": "1.0.0",
+  "description": "The setup of The Odin Server for EduTec System",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "DuckBox Co.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "form-data": "^3.0.0",
+    "googleapis": "^39.2.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.3",
+    "socket.io": "^2.3.0"
+  }
+}
